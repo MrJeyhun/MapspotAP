@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MapspotAP/precache-manifest.217a944ff65fda6d2dd72e7bf02e9ab1.js"
+  "/MapspotAP/precache-manifest.62d60da16a9279262b5b7607825722a3.js"
 );
 
 self.addEventListener('message', (event) => {

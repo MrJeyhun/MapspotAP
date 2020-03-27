@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a831d664900918808597ff0f11b6d592",
+    "revision": "10cfb318dcb125aac938b633ceab7878",
     "url": "/MapspotAP/index.html"
   },
   {
-    "revision": "1ffc6559cd8151da0ae6",
+    "revision": "7b08c5e76aa0125cb360",
     "url": "/MapspotAP/static/css/main.4b09a7c6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MapspotAP/static/js/2.7828dc61.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ffc6559cd8151da0ae6",
-    "url": "/MapspotAP/static/js/main.5d04fe24.chunk.js"
+    "revision": "7b08c5e76aa0125cb360",
+    "url": "/MapspotAP/static/js/main.55018e1d.chunk.js"
   },
   {
     "revision": "3e53df23f96d70b2e624",
