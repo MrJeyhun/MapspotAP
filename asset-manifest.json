@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MapspotAP/static/css/main.4b09a7c6.chunk.css",
+    "main.js": "/MapspotAP/static/js/main.5d04fe24.chunk.js",
+    "main.js.map": "/MapspotAP/static/js/main.5d04fe24.chunk.js.map",
+    "runtime-main.js": "/MapspotAP/static/js/runtime-main.06cd8abd.js",
+    "runtime-main.js.map": "/MapspotAP/static/js/runtime-main.06cd8abd.js.map",
+    "static/js/2.7828dc61.chunk.js": "/MapspotAP/static/js/2.7828dc61.chunk.js",
+    "static/js/2.7828dc61.chunk.js.map": "/MapspotAP/static/js/2.7828dc61.chunk.js.map",
+    "index.html": "/MapspotAP/index.html",
+    "precache-manifest.217a944ff65fda6d2dd72e7bf02e9ab1.js": "/MapspotAP/precache-manifest.217a944ff65fda6d2dd72e7bf02e9ab1.js",
+    "service-worker.js": "/MapspotAP/service-worker.js",
+    "static/css/main.4b09a7c6.chunk.css.map": "/MapspotAP/static/css/main.4b09a7c6.chunk.css.map",
+    "static/js/2.7828dc61.chunk.js.LICENSE.txt": "/MapspotAP/static/js/2.7828dc61.chunk.js.LICENSE.txt",
+    "static/media/admin.jpg": "/MapspotAP/static/media/admin.2140b11d.jpg",
+    "static/media/map-pointer.svg": "/MapspotAP/static/media/map-pointer.9c2b662b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06cd8abd.js",
+    "static/js/2.7828dc61.chunk.js",
+    "static/css/main.4b09a7c6.chunk.css",
+    "static/js/main.5d04fe24.chunk.js"
+  ]
+}
